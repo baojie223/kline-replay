@@ -1,0 +1,1196 @@
+{
+  "revision": "1a402721d639432875504a343e2b9ffe9508cd36",
+  "marketSha256": "d8c4fa0f80de498c402ee1685cf7bdc00e39dc0f4b02a6325e373e31801a95fd",
+  "warmupFrom": "2019-12-03",
+  "from": "2020-01-02",
+  "through": "2025-06-30",
+  "calendarDayCounts": {
+    "2020": 243,
+    "2021": 243,
+    "2022": 242,
+    "2023": 242,
+    "2024": 242,
+    "2025": 117
+  },
+  "rolls": [
+    {
+      "day": "2019-12-03",
+      "from": null,
+      "to": "MA2001"
+    },
+    {
+      "day": "2019-12-16",
+      "from": "MA2001",
+      "to": "MA2005"
+    },
+    {
+      "day": "2020-04-14",
+      "from": "MA2005",
+      "to": "MA2009"
+    },
+    {
+      "day": "2020-08-18",
+      "from": "MA2009",
+      "to": "MA2101"
+    },
+    {
+      "day": "2020-12-14",
+      "from": "MA2101",
+      "to": "MA2105"
+    },
+    {
+      "day": "2021-04-16",
+      "from": "MA2105",
+      "to": "MA2109"
+    },
+    {
+      "day": "2021-08-16",
+      "from": "MA2109",
+      "to": "MA2201"
+    },
+    {
+      "day": "2021-12-15",
+      "from": "MA2201",
+      "to": "MA2205"
+    },
+    {
+      "day": "2022-04-15",
+      "from": "MA2205",
+      "to": "MA2209"
+    },
+    {
+      "day": "2022-08-17",
+      "from": "MA2209",
+      "to": "MA2301"
+    },
+    {
+      "day": "2022-12-19",
+      "from": "MA2301",
+      "to": "MA2305"
+    },
+    {
+      "day": "2023-04-17",
+      "from": "MA2305",
+      "to": "MA2309"
+    },
+    {
+      "day": "2023-08-14",
+      "from": "MA2309",
+      "to": "MA2401"
+    },
+    {
+      "day": "2023-12-12",
+      "from": "MA2401",
+      "to": "MA2405"
+    },
+    {
+      "day": "2024-04-15",
+      "from": "MA2405",
+      "to": "MA2409"
+    },
+    {
+      "day": "2024-08-16",
+      "from": "MA2409",
+      "to": "MA2501"
+    },
+    {
+      "day": "2024-12-13",
+      "from": "MA2501",
+      "to": "MA2505"
+    },
+    {
+      "day": "2025-04-17",
+      "from": "MA2505",
+      "to": "MA2509"
+    }
+  ],
+  "unexpectedSchedules": [
+    {
+      "day": "2019-12-26",
+      "contract": "MA2005",
+      "slots": [
+        "22:30",
+        "22:35",
+        "22:40",
+        "22:45",
+        "22:50",
+        "22:55",
+        "23:00",
+        "09:05",
+        "09:10",
+        "09:15",
+        "09:20",
+        "09:25",
+        "09:30",
+        "09:35",
+        "09:40",
+        "09:45",
+        "09:50",
+        "09:55",
+        "10:00",
+        "10:05",
+        "10:10",
+        "10:15",
+        "10:35",
+        "10:40",
+        "10:45",
+        "10:50",
+        "10:55",
+        "11:00",
+        "11:05",
+        "11:10",
+        "11:15",
+        "11:20",
+        "11:25",
+        "11:30",
+        "13:35",
+        "13:40",
+        "13:45",
+        "13:50",
+        "13:55",
+        "14:00",
+        "14:05",
+        "14:10",
+        "14:15",
+        "14:20",
+        "14:25",
+        "14:30",
+        "14:35",
+        "14:40",
+        "14:45",
+        "14:50",
+        "14:55",
+        "15:00"
+      ]
+    }
+  ],
+  "openingLabelDaysByYear": {
+    "2019": 21,
+    "2020": 243,
+    "2021": 243,
+    "2022": 242,
+    "2023": 242,
+    "2024": 242,
+    "2025": 117
+  },
+  "barsPerDayCountsIncludingWarmup": {
+    "75": 7,
+    "69": 1243,
+    "52": 1,
+    "45": 99
+  },
+  "volumeLeaderFixes": {
+    "2024-12-11": "MA2501"
+  },
+  "official": [
+    {
+      "day": "2019-12-13",
+      "previousDay": "2019-12-12",
+      "contract": "MA001",
+      "exchangeLead": "MA005",
+      "minuteLead": "MA005",
+      "difference": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0,
+        "volume": -398
+      },
+      "exchangeVolume": 868214,
+      "url": "https://www.czce.com.cn/cn/DFSStaticFiles/Future/2019/20191213/FutureDataDaily.txt"
+    },
+    {
+      "day": "2019-12-16",
+      "previousDay": "2019-12-13",
+      "contract": "MA005",
+      "exchangeLead": "MA005",
+      "minuteLead": "MA005",
+      "difference": {
+        "open": 0,
+        "high": -1,
+        "low": 0,
+        "close": 0,
+        "volume": -120
+      },
+      "exchangeVolume": 2143922,
+      "url": "https://www.czce.com.cn/cn/DFSStaticFiles/Future/2019/20191216/FutureDataDaily.txt"
+    },
+    {
+      "day": "2020-01-02",
+      "previousDay": "2019-12-31",
+      "contract": "MA005",
+      "exchangeLead": "MA005",
+      "minuteLead": "MA005",
+      "difference": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0,
+        "volume": -11
+      },
+      "exchangeVolume": 510640,
+      "url": "https://www.czce.com.cn/cn/DFSStaticFiles/Future/2020/20200102/FutureDataDaily.txt"
+    },
+    {
+      "day": "2020-04-01",
+      "previousDay": "2020-03-31",
+      "contract": "MA005",
+      "exchangeLead": "MA005",
+      "minuteLead": "MA005",
+      "difference": {
+        "open": 0,
+        "high": 0,
+        "low": 1,
+        "close": 0,
+        "volume": -3677
+      },
+      "exchangeVolume": 735578,
+      "url": "https://www.czce.com.cn/cn/DFSStaticFiles/Future/2020/20200401/FutureDataDaily.txt"
+    },
+    {
+      "day": "2020-04-13",
+      "previousDay": "2020-04-10",
+      "contract": "MA005",
+      "exchangeLead": "MA009",
+      "minuteLead": "MA009",
+      "difference": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0,
+        "volume": -1304
+      },
+      "exchangeVolume": 721818,
+      "url": "https://www.czce.com.cn/cn/DFSStaticFiles/Future/2020/20200413/FutureDataDaily.txt"
+    },
+    {
+      "day": "2020-04-14",
+      "previousDay": "2020-04-13",
+      "contract": "MA009",
+      "exchangeLead": "MA009",
+      "minuteLead": "MA009",
+      "difference": {
+        "open": 0,
+        "high": -2,
+        "low": 0,
+        "close": 0,
+        "volume": -2815
+      },
+      "exchangeVolume": 1166240,
+      "url": "https://www.czce.com.cn/cn/DFSStaticFiles/Future/2020/20200414/FutureDataDaily.txt"
+    },
+    {
+      "day": "2020-07-01",
+      "previousDay": "2020-06-30",
+      "contract": "MA009",
+      "exchangeLead": "MA009",
+      "minuteLead": "MA009",
+      "difference": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0,
+        "volume": -4
+      },
+      "exchangeVolume": 1207984,
+      "url": "https://www.czce.com.cn/cn/DFSStaticFiles/Future/2020/20200701/FutureDataDaily.txt"
+    },
+    {
+      "day": "2020-08-17",
+      "previousDay": "2020-08-14",
+      "contract": "MA009",
+      "exchangeLead": "MA101",
+      "minuteLead": "MA101",
+      "difference": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0,
+        "volume": -334
+      },
+      "exchangeVolume": 394948,
+      "url": "https://www.czce.com.cn/cn/DFSStaticFiles/Future/2020/20200817/FutureDataDaily.txt"
+    },
+    {
+      "day": "2020-08-18",
+      "previousDay": "2020-08-17",
+      "contract": "MA101",
+      "exchangeLead": "MA101",
+      "minuteLead": "MA101",
+      "difference": {
+        "open": 0,
+        "high": -1,
+        "low": 1,
+        "close": 0,
+        "volume": 0
+      },
+      "exchangeVolume": 838503,
+      "url": "https://www.czce.com.cn/cn/DFSStaticFiles/Future/2020/20200818/FutureDataDaily.txt"
+    },
+    {
+      "day": "2020-10-09",
+      "previousDay": "2020-09-30",
+      "contract": "MA101",
+      "exchangeLead": "MA101",
+      "minuteLead": "MA101",
+      "difference": {
+        "open": 0,
+        "high": 0,
+        "low": 1,
+        "close": 0,
+        "volume": 0
+      },
+      "exchangeVolume": 566674,
+      "url": "https://www.czce.com.cn/cn/DFSStaticFiles/Future/2020/20201009/FutureDataDaily.txt"
+    },
+    {
+      "day": "2020-12-11",
+      "previousDay": "2020-12-10",
+      "contract": "MA101",
+      "exchangeLead": "MA105",
+      "minuteLead": "MA105",
+      "difference": {
+        "open": 0,
+        "high": -1,
+        "low": 0,
+        "close": 0,
+        "volume": 0
+      },
+      "exchangeVolume": 1185616,
+      "url": "https://www.czce.com.cn/cn/DFSStaticFiles/Future/2020/20201211/FutureDataDaily.txt"
+    },
+    {
+      "day": "2020-12-14",
+      "previousDay": "2020-12-11",
+      "contract": "MA105",
+      "exchangeLead": "MA105",
+      "minuteLead": "MA105",
+      "difference": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0,
+        "volume": 0
+      },
+      "exchangeVolume": 1273669,
+      "url": "https://www.czce.com.cn/cn/DFSStaticFiles/Future/2020/20201214/FutureDataDaily.txt"
+    },
+    {
+      "day": "2021-01-04",
+      "previousDay": "2020-12-31",
+      "contract": "MA105",
+      "exchangeLead": "MA105",
+      "minuteLead": "MA105",
+      "difference": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0,
+        "volume": 0
+      },
+      "exchangeVolume": 1057338,
+      "url": "https://www.czce.com.cn/cn/DFSStaticFiles/Future/2021/20210104/FutureDataDaily.txt"
+    },
+    {
+      "day": "2021-04-01",
+      "previousDay": "2021-03-31",
+      "contract": "MA105",
+      "exchangeLead": "MA105",
+      "minuteLead": "MA105",
+      "difference": {
+        "open": 0,
+        "high": 0,
+        "low": 1,
+        "close": 0,
+        "volume": -129
+      },
+      "exchangeVolume": 836731,
+      "url": "https://www.czce.com.cn/cn/DFSStaticFiles/Future/2021/20210401/FutureDataDaily.txt"
+    },
+    {
+      "day": "2021-04-15",
+      "previousDay": "2021-04-14",
+      "contract": "MA105",
+      "exchangeLead": "MA109",
+      "minuteLead": "MA109",
+      "difference": {
+        "open": 0,
+        "high": -1,
+        "low": 0,
+        "close": 0,
+        "volume": 0
+      },
+      "exchangeVolume": 458947,
+      "url": "https://www.czce.com.cn/cn/DFSStaticFiles/Future/2021/20210415/FutureDataDaily.txt"
+    },
+    {
+      "day": "2021-04-16",
+      "previousDay": "2021-04-15",
+      "contract": "MA109",
+      "exchangeLead": "MA109",
+      "minuteLead": "MA109",
+      "difference": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0,
+        "volume": -12
+      },
+      "exchangeVolume": 1178829,
+      "url": "https://www.czce.com.cn/cn/DFSStaticFiles/Future/2021/20210416/FutureDataDaily.txt"
+    },
+    {
+      "day": "2021-07-01",
+      "previousDay": "2021-06-30",
+      "contract": "MA109",
+      "exchangeLead": "MA109",
+      "minuteLead": "MA109",
+      "difference": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0,
+        "volume": 0
+      },
+      "exchangeVolume": 1030633,
+      "url": "https://www.czce.com.cn/cn/DFSStaticFiles/Future/2021/20210701/FutureDataDaily.txt"
+    },
+    {
+      "day": "2021-08-13",
+      "previousDay": "2021-08-12",
+      "contract": "MA109",
+      "exchangeLead": "MA201",
+      "minuteLead": "MA201",
+      "difference": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0,
+        "volume": 0
+      },
+      "exchangeVolume": 400165,
+      "url": "https://www.czce.com.cn/cn/DFSStaticFiles/Future/2021/20210813/FutureDataDaily.txt"
+    },
+    {
+      "day": "2021-08-16",
+      "previousDay": "2021-08-13",
+      "contract": "MA201",
+      "exchangeLead": "MA201",
+      "minuteLead": "MA201",
+      "difference": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0,
+        "volume": 0
+      },
+      "exchangeVolume": 879798,
+      "url": "https://www.czce.com.cn/cn/DFSStaticFiles/Future/2021/20210816/FutureDataDaily.txt"
+    },
+    {
+      "day": "2021-10-08",
+      "previousDay": "2021-09-30",
+      "contract": "MA201",
+      "exchangeLead": "MA201",
+      "minuteLead": "MA201",
+      "difference": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0,
+        "volume": 0
+      },
+      "exchangeVolume": 1594568,
+      "url": "https://www.czce.com.cn/cn/DFSStaticFiles/Future/2021/20211008/FutureDataDaily.txt"
+    },
+    {
+      "day": "2021-12-14",
+      "previousDay": "2021-12-13",
+      "contract": "MA201",
+      "exchangeLead": "MA205",
+      "minuteLead": "MA205",
+      "difference": {
+        "open": 0,
+        "high": -1,
+        "low": 0,
+        "close": 0,
+        "volume": 0
+      },
+      "exchangeVolume": 578873,
+      "url": "https://www.czce.com.cn/cn/DFSStaticFiles/Future/2021/20211214/FutureDataDaily.txt"
+    },
+    {
+      "day": "2021-12-15",
+      "previousDay": "2021-12-14",
+      "contract": "MA205",
+      "exchangeLead": "MA205",
+      "minuteLead": "MA205",
+      "difference": {
+        "open": 0,
+        "high": -1,
+        "low": 0,
+        "close": 0,
+        "volume": 0
+      },
+      "exchangeVolume": 1134556,
+      "url": "https://www.czce.com.cn/cn/DFSStaticFiles/Future/2021/20211215/FutureDataDaily.txt"
+    },
+    {
+      "day": "2022-01-04",
+      "previousDay": "2021-12-31",
+      "contract": "MA205",
+      "exchangeLead": "MA205",
+      "minuteLead": "MA205",
+      "difference": {
+        "open": 0,
+        "high": 0,
+        "low": 2,
+        "close": 0,
+        "volume": 0
+      },
+      "exchangeVolume": 1216938,
+      "url": "https://www.czce.com.cn/cn/DFSStaticFiles/Future/2022/20220104/FutureDataDaily.txt"
+    },
+    {
+      "day": "2022-04-01",
+      "previousDay": "2022-03-31",
+      "contract": "MA205",
+      "exchangeLead": "MA205",
+      "minuteLead": "MA205",
+      "difference": {
+        "open": 0,
+        "high": 0,
+        "low": 3,
+        "close": 0,
+        "volume": -2908
+      },
+      "exchangeVolume": 670306,
+      "url": "https://www.czce.com.cn/cn/DFSStaticFiles/Future/2022/20220401/FutureDataDaily.txt"
+    },
+    {
+      "day": "2022-04-14",
+      "previousDay": "2022-04-13",
+      "contract": "MA205",
+      "exchangeLead": "MA209",
+      "minuteLead": "MA209",
+      "difference": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0,
+        "volume": 0
+      },
+      "exchangeVolume": 395977,
+      "url": "https://www.czce.com.cn/cn/DFSStaticFiles/Future/2022/20220414/FutureDataDaily.txt"
+    },
+    {
+      "day": "2022-04-15",
+      "previousDay": "2022-04-14",
+      "contract": "MA209",
+      "exchangeLead": "MA209",
+      "minuteLead": "MA209",
+      "difference": {
+        "open": 0,
+        "high": -1,
+        "low": 1,
+        "close": 0,
+        "volume": 0
+      },
+      "exchangeVolume": 926244,
+      "url": "https://www.czce.com.cn/cn/DFSStaticFiles/Future/2022/20220415/FutureDataDaily.txt"
+    },
+    {
+      "day": "2022-07-01",
+      "previousDay": "2022-06-30",
+      "contract": "MA209",
+      "exchangeLead": "MA209",
+      "minuteLead": "MA209",
+      "difference": {
+        "open": 0,
+        "high": 0,
+        "low": 1,
+        "close": 0,
+        "volume": -1405
+      },
+      "exchangeVolume": 1463907,
+      "url": "https://www.czce.com.cn/cn/DFSStaticFiles/Future/2022/20220701/FutureDataDaily.txt"
+    },
+    {
+      "day": "2022-08-16",
+      "previousDay": "2022-08-15",
+      "contract": "MA209",
+      "exchangeLead": "MA301",
+      "minuteLead": "MA301",
+      "difference": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0,
+        "volume": 0
+      },
+      "exchangeVolume": 679715,
+      "url": "https://www.czce.com.cn/cn/DFSStaticFiles/Future/2022/20220816/FutureDataDaily.txt"
+    },
+    {
+      "day": "2022-08-17",
+      "previousDay": "2022-08-16",
+      "contract": "MA301",
+      "exchangeLead": "MA301",
+      "minuteLead": "MA301",
+      "difference": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0,
+        "volume": 0
+      },
+      "exchangeVolume": 1371849,
+      "url": "https://www.czce.com.cn/cn/DFSStaticFiles/Future/2022/20220817/FutureDataDaily.txt"
+    },
+    {
+      "day": "2022-10-10",
+      "previousDay": "2022-09-30",
+      "contract": "MA301",
+      "exchangeLead": "MA301",
+      "minuteLead": "MA301",
+      "difference": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0,
+        "volume": 0
+      },
+      "exchangeVolume": 828391,
+      "url": "https://www.czce.com.cn/cn/DFSStaticFiles/Future/2022/20221010/FutureDataDaily.txt"
+    },
+    {
+      "day": "2022-12-16",
+      "previousDay": "2022-12-15",
+      "contract": "MA301",
+      "exchangeLead": "MA305",
+      "minuteLead": "MA305",
+      "difference": {
+        "open": 0,
+        "high": 0,
+        "low": 1,
+        "close": 0,
+        "volume": 0
+      },
+      "exchangeVolume": 423944,
+      "url": "https://www.czce.com.cn/cn/DFSStaticFiles/Future/2022/20221216/FutureDataDaily.txt"
+    },
+    {
+      "day": "2022-12-19",
+      "previousDay": "2022-12-16",
+      "contract": "MA305",
+      "exchangeLead": "MA305",
+      "minuteLead": "MA305",
+      "difference": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0,
+        "volume": -2
+      },
+      "exchangeVolume": 1273899,
+      "url": "https://www.czce.com.cn/cn/DFSStaticFiles/Future/2022/20221219/FutureDataDaily.txt"
+    },
+    {
+      "day": "2023-01-03",
+      "previousDay": "2022-12-30",
+      "contract": "MA305",
+      "exchangeLead": "MA305",
+      "minuteLead": "MA305",
+      "difference": {
+        "open": 0,
+        "high": -1,
+        "low": 0,
+        "close": 0,
+        "volume": -1688
+      },
+      "exchangeVolume": 1094992,
+      "url": "https://www.czce.com.cn/cn/DFSStaticFiles/Future/2023/20230103/FutureDataDaily.txt"
+    },
+    {
+      "day": "2023-04-03",
+      "previousDay": "2023-03-31",
+      "contract": "MA305",
+      "exchangeLead": "MA305",
+      "minuteLead": "MA305",
+      "difference": {
+        "open": 0,
+        "high": -1,
+        "low": 1,
+        "close": 0,
+        "volume": -128
+      },
+      "exchangeVolume": 1476339,
+      "url": "https://www.czce.com.cn/cn/DFSStaticFiles/Future/2023/20230403/FutureDataDaily.txt"
+    },
+    {
+      "day": "2023-04-14",
+      "previousDay": "2023-04-13",
+      "contract": "MA305",
+      "exchangeLead": "MA309",
+      "minuteLead": "MA309",
+      "difference": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0,
+        "volume": 0
+      },
+      "exchangeVolume": 523263,
+      "url": "https://www.czce.com.cn/cn/DFSStaticFiles/Future/2023/20230414/FutureDataDaily.txt"
+    },
+    {
+      "day": "2023-04-17",
+      "previousDay": "2023-04-14",
+      "contract": "MA309",
+      "exchangeLead": "MA309",
+      "minuteLead": "MA309",
+      "difference": {
+        "open": 0,
+        "high": 0,
+        "low": 1,
+        "close": 0,
+        "volume": 0
+      },
+      "exchangeVolume": 773482,
+      "url": "https://www.czce.com.cn/cn/DFSStaticFiles/Future/2023/20230417/FutureDataDaily.txt"
+    },
+    {
+      "day": "2023-07-03",
+      "previousDay": "2023-06-30",
+      "contract": "MA309",
+      "exchangeLead": "MA309",
+      "minuteLead": "MA309",
+      "difference": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0,
+        "volume": -305
+      },
+      "exchangeVolume": 1128817,
+      "url": "https://www.czce.com.cn/cn/DFSStaticFiles/Future/2023/20230703/FutureDataDaily.txt"
+    },
+    {
+      "day": "2023-08-11",
+      "previousDay": "2023-08-10",
+      "contract": "MA309",
+      "exchangeLead": "MA401",
+      "minuteLead": "MA401",
+      "difference": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0,
+        "volume": 0
+      },
+      "exchangeVolume": 622805,
+      "url": "https://www.czce.com.cn/cn/DFSStaticFiles/Future/2023/20230811/FutureDataDaily.txt"
+    },
+    {
+      "day": "2023-08-14",
+      "previousDay": "2023-08-11",
+      "contract": "MA401",
+      "exchangeLead": "MA401",
+      "minuteLead": "MA401",
+      "difference": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0,
+        "volume": 0
+      },
+      "exchangeVolume": 1167666,
+      "url": "https://www.czce.com.cn/cn/DFSStaticFiles/Future/2023/20230814/FutureDataDaily.txt"
+    },
+    {
+      "day": "2023-10-09",
+      "previousDay": "2023-09-28",
+      "contract": "MA401",
+      "exchangeLead": "MA401",
+      "minuteLead": "MA401",
+      "difference": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0,
+        "volume": 0
+      },
+      "exchangeVolume": 917885,
+      "url": "https://www.czce.com.cn/cn/DFSStaticFiles/Future/2023/20231009/FutureDataDaily.txt"
+    },
+    {
+      "day": "2023-12-11",
+      "previousDay": "2023-12-08",
+      "contract": "MA401",
+      "exchangeLead": "MA405",
+      "minuteLead": "MA405",
+      "difference": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0,
+        "volume": -5
+      },
+      "exchangeVolume": 749897,
+      "url": "https://www.czce.com.cn/cn/DFSStaticFiles/Future/2023/20231211/FutureDataDaily.txt"
+    },
+    {
+      "day": "2023-12-12",
+      "previousDay": "2023-12-11",
+      "contract": "MA405",
+      "exchangeLead": "MA405",
+      "minuteLead": "MA405",
+      "difference": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0,
+        "volume": 0
+      },
+      "exchangeVolume": 1339791,
+      "url": "https://www.czce.com.cn/cn/DFSStaticFiles/Future/2023/20231212/FutureDataDaily.txt"
+    },
+    {
+      "day": "2024-01-02",
+      "previousDay": "2023-12-29",
+      "contract": "MA405",
+      "exchangeLead": "MA405",
+      "minuteLead": "MA405",
+      "difference": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0,
+        "volume": 0
+      },
+      "exchangeVolume": 793720,
+      "url": "https://www.czce.com.cn/cn/DFSStaticFiles/Future/2024/20240102/FutureDataDaily.txt"
+    },
+    {
+      "day": "2024-04-01",
+      "previousDay": "2024-03-29",
+      "contract": "MA405",
+      "exchangeLead": "MA405",
+      "minuteLead": "MA405",
+      "difference": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0,
+        "volume": -288
+      },
+      "exchangeVolume": 729485,
+      "url": "https://www.czce.com.cn/cn/DFSStaticFiles/Future/2024/20240401/FutureDataDaily.txt"
+    },
+    {
+      "day": "2024-04-12",
+      "previousDay": "2024-04-11",
+      "contract": "MA405",
+      "exchangeLead": "MA409",
+      "minuteLead": "MA409",
+      "difference": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0,
+        "volume": 0
+      },
+      "exchangeVolume": 403608,
+      "url": "https://www.czce.com.cn/cn/DFSStaticFiles/Future/2024/20240412/FutureDataDaily.txt"
+    },
+    {
+      "day": "2024-04-15",
+      "previousDay": "2024-04-12",
+      "contract": "MA409",
+      "exchangeLead": "MA409",
+      "minuteLead": "MA409",
+      "difference": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0,
+        "volume": 0
+      },
+      "exchangeVolume": 973161,
+      "url": "https://www.czce.com.cn/cn/DFSStaticFiles/Future/2024/20240415/FutureDataDaily.txt"
+    },
+    {
+      "day": "2024-07-01",
+      "previousDay": "2024-06-28",
+      "contract": "MA409",
+      "exchangeLead": "MA409",
+      "minuteLead": "MA409",
+      "difference": {
+        "open": 0,
+        "high": 0,
+        "low": 1,
+        "close": 0,
+        "volume": 0
+      },
+      "exchangeVolume": 608740,
+      "url": "https://www.czce.com.cn/cn/DFSStaticFiles/Future/2024/20240701/FutureDataDaily.txt"
+    },
+    {
+      "day": "2024-08-15",
+      "previousDay": "2024-08-14",
+      "contract": "MA409",
+      "exchangeLead": "MA501",
+      "minuteLead": "MA501",
+      "difference": {
+        "open": 0,
+        "high": -1,
+        "low": 0,
+        "close": 0,
+        "volume": 0
+      },
+      "exchangeVolume": 414329,
+      "url": "https://www.czce.com.cn/cn/DFSStaticFiles/Future/2024/20240815/FutureDataDaily.txt"
+    },
+    {
+      "day": "2024-08-16",
+      "previousDay": "2024-08-15",
+      "contract": "MA501",
+      "exchangeLead": "MA501",
+      "minuteLead": "MA501",
+      "difference": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0,
+        "volume": 0
+      },
+      "exchangeVolume": 546815,
+      "url": "https://www.czce.com.cn/cn/DFSStaticFiles/Future/2024/20240816/FutureDataDaily.txt"
+    },
+    {
+      "day": "2024-10-08",
+      "previousDay": "2024-09-30",
+      "contract": "MA501",
+      "exchangeLead": "MA501",
+      "minuteLead": "MA501",
+      "difference": {
+        "open": 0,
+        "high": -3,
+        "low": 0,
+        "close": 0,
+        "volume": 0
+      },
+      "exchangeVolume": 711430,
+      "url": "https://www.czce.com.cn/cn/DFSStaticFiles/Future/2024/20241008/FutureDataDaily.txt"
+    },
+    {
+      "day": "2024-12-11",
+      "previousDay": "2024-12-10",
+      "contract": "MA501",
+      "exchangeLead": "MA501",
+      "minuteLead": "MA505",
+      "difference": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0,
+        "volume": -50831
+      },
+      "exchangeVolume": 378792,
+      "url": "https://www.czce.com.cn/cn/DFSStaticFiles/Future/2024/20241211/FutureDataDaily.txt"
+    },
+    {
+      "day": "2024-12-12",
+      "previousDay": "2024-12-11",
+      "contract": "MA501",
+      "exchangeLead": "MA505",
+      "minuteLead": "MA505",
+      "difference": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0,
+        "volume": 0
+      },
+      "exchangeVolume": 227148,
+      "url": "https://www.czce.com.cn/cn/DFSStaticFiles/Future/2024/20241212/FutureDataDaily.txt"
+    },
+    {
+      "day": "2024-12-13",
+      "previousDay": "2024-12-12",
+      "contract": "MA505",
+      "exchangeLead": "MA505",
+      "minuteLead": "MA505",
+      "difference": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0,
+        "volume": 0
+      },
+      "exchangeVolume": 499967,
+      "url": "https://www.czce.com.cn/cn/DFSStaticFiles/Future/2024/20241213/FutureDataDaily.txt"
+    },
+    {
+      "day": "2025-01-02",
+      "previousDay": "2024-12-31",
+      "contract": "MA505",
+      "exchangeLead": "MA505",
+      "minuteLead": "MA505",
+      "difference": {
+        "open": 0,
+        "high": -1,
+        "low": 0,
+        "close": 0,
+        "volume": 0
+      },
+      "exchangeVolume": 495720,
+      "url": "https://www.czce.com.cn/cn/DFSStaticFiles/Future/2025/20250102/FutureDataDaily.txt"
+    },
+    {
+      "day": "2025-04-01",
+      "previousDay": "2025-03-31",
+      "contract": "MA505",
+      "exchangeLead": "MA505",
+      "minuteLead": "MA505",
+      "difference": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0,
+        "volume": 0
+      },
+      "exchangeVolume": 584578,
+      "url": "https://www.czce.com.cn/cn/DFSStaticFiles/Future/2025/20250401/FutureDataDaily.txt"
+    },
+    {
+      "day": "2025-04-16",
+      "previousDay": "2025-04-15",
+      "contract": "MA505",
+      "exchangeLead": "MA509",
+      "minuteLead": "MA509",
+      "difference": {
+        "open": 0,
+        "high": 0,
+        "low": 1,
+        "close": 0,
+        "volume": 0
+      },
+      "exchangeVolume": 277384,
+      "url": "https://www.czce.com.cn/cn/DFSStaticFiles/Future/2025/20250416/FutureDataDaily.txt"
+    },
+    {
+      "day": "2025-04-17",
+      "previousDay": "2025-04-16",
+      "contract": "MA509",
+      "exchangeLead": "MA509",
+      "minuteLead": "MA509",
+      "difference": {
+        "open": 0,
+        "high": 0,
+        "low": 1,
+        "close": 0,
+        "volume": 0
+      },
+      "exchangeVolume": 659451,
+      "url": "https://www.czce.com.cn/cn/DFSStaticFiles/Future/2025/20250417/FutureDataDaily.txt"
+    },
+    {
+      "day": "2025-06-30",
+      "previousDay": "2025-06-27",
+      "contract": "MA509",
+      "exchangeLead": "MA509",
+      "minuteLead": "MA509",
+      "difference": {
+        "open": 0,
+        "high": 0,
+        "low": 1,
+        "close": 0,
+        "volume": -4
+      },
+      "exchangeVolume": 863085,
+      "url": "https://www.czce.com.cn/cn/DFSStaticFiles/Future/2025/20250630/FutureDataDaily.txt"
+    }
+  ],
+  "rawSha256": {
+    "MA1912": "ab54764d04ade31f12735346179456aa8c4544e88851599380f2cba201af6f01",
+    "MA2001": "72f819dd3cad6197124b404891feddcf24ac3263b34e6fab1d3c02e9925c5bab",
+    "MA2002": "3be963c2ec28008ea453ece15816e5e3ddf951614ba5a858963dd18e22d9a4ed",
+    "MA2003": "0dbfc72fae7a1376eecc79e07c3c485aa6e711b8ddc893e2f58a5a52d22972c5",
+    "MA2004": "666781ff4d204513c1c0493239971ff89c1bb12449200876a1142f415cc64467",
+    "MA2005": "847dd461985fc5289324d566af609fafdf5302cf1664696c268e6b4bc238cb9e",
+    "MA2006": "5c440ebb11b7d3c12f03a073b119d236b083963e4c67dd4a124760005b0f385f",
+    "MA2007": "7ecd954a00fe4fcfa8d854a7faed0847d5d0bb91def648b291777fa708ff6142",
+    "MA2008": "89ebe8e1bfe14f1b93677df4cb866f92790ba92f6bc28941d856e49a426d1e64",
+    "MA2009": "82550d5fc61185f21ab83c844e8e3031794ecdbdfa5c9fe1fe320185a04e43dd",
+    "MA2010": "effe009b57493013dac92f0dfb24d511f2fdabb90e6c442d17cd18a4e364d291",
+    "MA2011": "4a376ab7706f54fd3ed142c6a820ac78aeb041e4e79c8b200c069ced4a23bfc3",
+    "MA2012": "0591fe4673ac22b692f53b9ee339d7bbe39859b2003ea4943f859f6a30639dac",
+    "MA2101": "78cdf1c509eb7453399b281a4109a87f40f29758bcdeea53e6b109d5138c6848",
+    "MA2102": "2ddf7e5a693a165d7e8b50d6620dad9d18721e8b8a27933aae5a8072fdc81256",
+    "MA2103": "1ad0fdde6129094ab901bfc0c747df5214c97ed2a0524db67879f036d50eba65",
+    "MA2104": "42e8fd71c77471c34dfd53063e2cca5efcc2bedae9493dad8e28b6fb18d285b9",
+    "MA2105": "47c618d47e257a3480bd2952f562aa8d1dc85099fe3bdb0c97d3d26e021eba12",
+    "MA2106": "3c86b9ac243f3df018fcf70d7ae63283212fa5118fe026ffcac60dbd793f788d",
+    "MA2107": "c132406579142f8179d91c6e9583f2655ba0405fa816872dae92615a6f886dd6",
+    "MA2108": "f3908897b61b4ea86217a049bba96e2e006e6c5eda888e886d09fbd4f98ac1e9",
+    "MA2109": "57137ffa5dd1d255e1bd0a97fc5bc1d1c06f66f2eceba2e009415dd3b9b12a62",
+    "MA2110": "c6769f90986460372d3f1e2dc91d3a4eeb3891e77504f10100643826f1c4010a",
+    "MA2111": "3d2f68be879f68aead66779fa7419a2dfb6d58c5534648b68899dc56c5c93682",
+    "MA2112": "141bacd97a677c0bdad699d668d97a5cd60dd3023c60505b6981ea7e309aeebd",
+    "MA2201": "9edfe2bdde3a107518b757df6619fad4c5de151bcb901fa9681a4a79bb77e633",
+    "MA2202": "a39111ee17ce6ff905759563087256930e61db9cddf787c3f27609cb30835232",
+    "MA2203": "388b00c824785bf4da14ea0e9aecf06d9c667f020328a763fa53b3823fc91090",
+    "MA2204": "406bc8713c6fd0ee11b0fcf5cc6391cc3432c80de758be439519d2c4bce81e7e",
+    "MA2205": "42906e30e5173ce81f84a24767de374fff5391f6a8707852de98d2abf3d38c88",
+    "MA2206": "e5a63428ee86b9bf9fc8b3d0d4f13d81191db372d149ad2d014c4da263232198",
+    "MA2207": "76e83b228f515d69fd7f3be84f0f3483ef062a892bd29fbcafd98efbf7beaa88",
+    "MA2208": "93b97d36af740d5c6454026ba85c91a4d5492768fec46dfce5f79b4dfe837a7a",
+    "MA2209": "9106555cf67c58b68fe6b4dac96bff7630d2893c7d952a4b4075229874724d96",
+    "MA2210": "0393c61ba24dfc06137a52139a7c8ba12663b34fcd5f996003b9ae485f01b83d",
+    "MA2211": "cbc2053d04eb7a1b85085314728a4ff0b498007b39dc7ca9b94efefb85d6b55e",
+    "MA2212": "bedb7f8ec41ede6d4a205aa0914ac156868b1957b2044cfd4a8bf0a93b478788",
+    "MA2301": "1e805c604e470d14a776a897594622aaed18e0451ed0f419ebf960dd69408222",
+    "MA2302": "36e76dae1ac0607ab6abf8f47763f08486fb5f38ca5e73a4d830d6be5d729236",
+    "MA2303": "ce2fab2b9a3f1cfe82d0aa824eb1312c5b1751e36551928bc49e6476753ad6b7",
+    "MA2304": "3d52d989f259296bc37a907554730a0e76e88fee8dedf5a7daf89dbb2d346267",
+    "MA2305": "b7be80a5ddbcb7e6a3a38ab6ff82f906379f48b934590f6371a3e421bb648ecc",
+    "MA2306": "67ef8db2d0492e0fc23ec7fcff2b87b10d9e8657bc0234e7bc0129e8df7a5988",
+    "MA2307": "6770b874668b7301b9bc9d79742f04128839bf6ed748fcdc48afbb3de4ec6518",
+    "MA2308": "239173c4aab43c4d33890072556f4d02054eb0f62c196c3035b1e2b2becc2ab6",
+    "MA2309": "20227ec099e0328ee5a6e2698cc4ba4464080b099a8a34276eb588aebefc00e7",
+    "MA2310": "e55bd3e8f8576fa6c0b67476defe2ab68ab6015ab94a86b173249e12daaf0d38",
+    "MA2311": "827cdfcc165faa6518a568b8b4633073f7649d81fd2df2c886360a911dafafd2",
+    "MA2312": "b41334414567dc8e7c1450efa2aae4b79344dc52a6a210def2e84f7dec55915d",
+    "MA2401": "9f324d218862cad6758e1971a79e85290265719fd71e09ca6b2896f7ee5791c8",
+    "MA2402": "a4792fda1b2a1e8dbfff1257236d7c6de8deca519917b9961067e56480f64c44",
+    "MA2403": "6f9616412dca5f36b1cda52b350e7b8106b539efae7d09536d38432d2682e403",
+    "MA2404": "ae0a73d49c72fc95c0b68f193be654b9b0359c0434b6de95a697f5568e4422ab",
+    "MA2405": "ef3b255c9c0d74f6c5e41cc652bdd75faa7099d994f99fad53c4e2af0586da69",
+    "MA2406": "b6e2fa401486dfef785a1a9c0103262e3c4c1775b54f25b92a2f1494f2b44734",
+    "MA2407": "1e7588378c4318fe2124ded339fcbcf08e509504b8f17bb527b85907968a989d",
+    "MA2408": "7f0cc2c08e0d5c69aeff7ebb71d8572d81ec5d1e4ebdf3d195a80ef5ee94e59c",
+    "MA2409": "7ae0df3ed05daef3e6d5656a5be1934dda129c2976bdd3b8b7511c5f0d839bde",
+    "MA2410": "6bbecbb6347917780cc59e4839b58683c8e7731747fd36e21fd6dcfdc18e989f",
+    "MA2411": "b7617ecf4e8573756060bf48427a8d11c854e4a9bdaec29e310e531cf8bd7fb1",
+    "MA2412": "2186b95e9a9dfaaaef00a69314bf3be8bf892ce367b331e3962016c1478a5782",
+    "MA2501": "e6073a7101e6aa0cf3f850800c322eb12a1507e267fdeff67c0baf33856f8f96",
+    "MA2502": "4fc2c2688bf033108f169f0d74cbc2387a47294d50c9cfcb9215993ae98ba056",
+    "MA2503": "73aec29c3849610ef05334f800048ca66e9885f786d9fc067f6c4f204a1cb887",
+    "MA2504": "64454a86904cecc3d4daea44166d1a7869fafa672003fafe8cd876b483b32c39",
+    "MA2505": "ac047a52251528e6941e1b9e8a46ef3cba397b421752fc7fe94a318f385a36f0",
+    "MA2506": "b229a42ea38488eb9f3e3093b7c79f7c9217b2c30d645fe25f84bfbafd7425fe",
+    "MA2507": "3e55735b236d6b23c5956cf2928231af824ba76d5ad43ef0d025e69960a9367a",
+    "MA2508": "17ae49f67d7c22ed3c0a15bf4e95746370ba56f15618b70f68f94eb1797eb9ec",
+    "MA2509": "0e888ea4806a6d3e2393fd06d42059e1ec1d155264ca5f85ad59b2c95577054f",
+    "MA2510": "4641909bddfaa3b224dfc80057e572d90a4a28ae98dd21699649fcd649474187",
+    "MA2511": "fe0ff2446764d0597a8c9dc5aa479f05bb20f61bfeac31d938ea679ead6c3dff",
+    "MA2512": "ffda9ff48424d30bb68494358d53a450cac851e08a4b905886f961fbd8bbd1cf",
+    "MA2601": "ede40acfc203a25f5968e2623957aa56e3e1e830f7748e7c2b1797062247f672",
+    "MA2602": "0f791acd9cd10eb05b01819ade4d7673199cac67f513aee42282f4392976132d",
+    "MA2603": "75e7d83688e4b02ea1d3fe4de496c7a87421f006485fc1b435b710c4864c7501",
+    "MA2604": "e4024e707304a12f7b3d16f0c12a4dbb694049535d7d4ee7cc1fe0b0ca3faf33",
+    "MA2605": "4cfea109e839318d9f3441341fe4c18b50f8743fe282e63c20da7c5c77d9a068",
+    "MA2606": "c88c2a68d98fad7d827866b99cbda5722dcd1e9641b9133e3491ac7ec1741b66"
+  }
+}

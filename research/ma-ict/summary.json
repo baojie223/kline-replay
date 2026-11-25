@@ -1,0 +1,751 @@
+{
+  "from": "2025-11-17",
+  "through": "2026-11-16",
+  "audit": {
+    "tradingDays": 242,
+    "fiveMinuteBars": 16530,
+    "exactOpenClose": 242,
+    "exactOhlc": 93,
+    "maxRangeDifference": 30,
+    "maxVolumeDifferencePercent": 12.262575074112775,
+    "materialDifferences": [
+      {
+        "tradeDate": "2025-12-11",
+        "contract": "MA601",
+        "highDifference": 1,
+        "lowDifference": 0,
+        "volumeDifferencePercent": 12.2626
+      },
+      {
+        "tradeDate": "2026-03-10",
+        "contract": "MA605",
+        "highDifference": 0,
+        "lowDifference": 9,
+        "volumeDifferencePercent": 0
+      },
+      {
+        "tradeDate": "2026-03-19",
+        "contract": "MA605",
+        "highDifference": 0,
+        "lowDifference": 28,
+        "volumeDifferencePercent": 0.0391
+      },
+      {
+        "tradeDate": "2026-03-24",
+        "contract": "MA605",
+        "highDifference": 2,
+        "lowDifference": 6,
+        "volumeDifferencePercent": 0.0104
+      },
+      {
+        "tradeDate": "2026-03-30",
+        "contract": "MA605",
+        "highDifference": 12,
+        "lowDifference": 1,
+        "volumeDifferencePercent": 0.0004
+      },
+      {
+        "tradeDate": "2026-04-02",
+        "contract": "MA605",
+        "highDifference": 0,
+        "lowDifference": 7,
+        "volumeDifferencePercent": 0.0486
+      },
+      {
+        "tradeDate": "2026-04-08",
+        "contract": "MA605",
+        "highDifference": 0,
+        "lowDifference": 16,
+        "volumeDifferencePercent": 0.0018
+      },
+      {
+        "tradeDate": "2026-04-10",
+        "contract": "MA605",
+        "highDifference": 7,
+        "lowDifference": 0,
+        "volumeDifferencePercent": 0.0891
+      },
+      {
+        "tradeDate": "2026-04-13",
+        "contract": "MA605",
+        "highDifference": 22,
+        "lowDifference": 1,
+        "volumeDifferencePercent": 9.5043
+      },
+      {
+        "tradeDate": "2026-04-14",
+        "contract": "MA605",
+        "highDifference": 0,
+        "lowDifference": 13,
+        "volumeDifferencePercent": 0
+      },
+      {
+        "tradeDate": "2026-04-20",
+        "contract": "MA609",
+        "highDifference": 30,
+        "lowDifference": 9,
+        "volumeDifferencePercent": 0
+      },
+      {
+        "tradeDate": "2026-04-24",
+        "contract": "MA609",
+        "highDifference": 7,
+        "lowDifference": 1,
+        "volumeDifferencePercent": 0
+      },
+      {
+        "tradeDate": "2026-05-08",
+        "contract": "MA609",
+        "highDifference": 12,
+        "lowDifference": 0,
+        "volumeDifferencePercent": 0
+      },
+      {
+        "tradeDate": "2026-06-12",
+        "contract": "MA609",
+        "highDifference": 0,
+        "lowDifference": 8,
+        "volumeDifferencePercent": 0
+      },
+      {
+        "tradeDate": "2026-07-14",
+        "contract": "MA609",
+        "highDifference": 23,
+        "lowDifference": 0,
+        "volumeDifferencePercent": 0.0005
+      },
+      {
+        "tradeDate": "2026-07-21",
+        "contract": "MA609",
+        "highDifference": 7,
+        "lowDifference": 1,
+        "volumeDifferencePercent": 0.0071
+      },
+      {
+        "tradeDate": "2026-08-03",
+        "contract": "MA609",
+        "highDifference": 1,
+        "lowDifference": 27,
+        "volumeDifferencePercent": 0.0002
+      },
+      {
+        "tradeDate": "2026-08-12",
+        "contract": "MA609",
+        "highDifference": 0,
+        "lowDifference": 0,
+        "volumeDifferencePercent": 12.1443
+      },
+      {
+        "tradeDate": "2026-09-07",
+        "contract": "MA610",
+        "highDifference": 11,
+        "lowDifference": 0,
+        "volumeDifferencePercent": 0.0001
+      },
+      {
+        "tradeDate": "2026-09-09",
+        "contract": "MA610",
+        "highDifference": 10,
+        "lowDifference": 1,
+        "volumeDifferencePercent": 0.0123
+      },
+      {
+        "tradeDate": "2026-09-11",
+        "contract": "MA610",
+        "highDifference": 0,
+        "lowDifference": 0,
+        "volumeDifferencePercent": 6.2336
+      },
+      {
+        "tradeDate": "2026-09-14",
+        "contract": "MA610",
+        "highDifference": 10,
+        "lowDifference": 2,
+        "volumeDifferencePercent": 0
+      },
+      {
+        "tradeDate": "2026-10-13",
+        "contract": "MA611",
+        "highDifference": 2,
+        "lowDifference": 0,
+        "volumeDifferencePercent": 9.525
+      },
+      {
+        "tradeDate": "2026-10-19",
+        "contract": "MA701",
+        "highDifference": 7,
+        "lowDifference": 0,
+        "volumeDifferencePercent": 0
+      },
+      {
+        "tradeDate": "2026-11-12",
+        "contract": "MA701",
+        "highDifference": 1,
+        "lowDifference": 11,
+        "volumeDifferencePercent": 0
+      },
+      {
+        "tradeDate": "2026-11-13",
+        "contract": "MA701",
+        "highDifference": 7,
+        "lowDifference": 0,
+        "volumeDifferencePercent": 0
+      }
+    ]
+  },
+  "rolls": [
+    {
+      "tradeDate": "2025-12-16",
+      "contract": "MA605",
+      "rollFrom": "MA601",
+      "rollExitOpen": 2068
+    },
+    {
+      "tradeDate": "2026-04-17",
+      "contract": "MA609",
+      "rollFrom": "MA605",
+      "rollExitOpen": 3200
+    },
+    {
+      "tradeDate": "2026-08-14",
+      "contract": "MA610",
+      "rollFrom": "MA609",
+      "rollExitOpen": 2623
+    },
+    {
+      "tradeDate": "2026-09-28",
+      "contract": "MA611",
+      "rollFrom": "MA610",
+      "rollExitOpen": 3525
+    },
+    {
+      "tradeDate": "2026-10-19",
+      "contract": "MA701",
+      "rollFrom": "MA611",
+      "rollExitOpen": 3370
+    }
+  ],
+  "scenarios": {
+    "noCosts": {
+      "feeRate": 0,
+      "marketExitTicks": 0
+    },
+    "base": {
+      "feeRate": 0.0001,
+      "marketExitTicks": 1
+    },
+    "higherCosts": {
+      "feeRate": 0.0004,
+      "marketExitTicks": 2
+    }
+  },
+  "results": {
+    "5m": {
+      "noCosts": {
+        "signalCount": 83,
+        "orders": 78,
+        "maxDrawdown": 5060,
+        "equity": -3980,
+        "openPosition": false,
+        "count": 45,
+        "wins": 16,
+        "losses": 28,
+        "winRate": 0.35555555555555557,
+        "gross": -3980,
+        "fees": 0,
+        "slippage": 0,
+        "net": -3980,
+        "meanR": -0.22099156556968402,
+        "profitFactor": 0.49428208386277,
+        "largestWin": 980,
+        "largestLoss": -1170,
+        "long": {
+          "count": 27,
+          "wins": 12,
+          "losses": 14,
+          "winRate": 0.4444444444444444,
+          "gross": -2090,
+          "fees": 0,
+          "slippage": 0,
+          "net": -2090,
+          "meanR": -0.08079648995616448,
+          "profitFactor": 0.5406593406593406,
+          "largestWin": 640,
+          "largestLoss": -1170
+        },
+        "short": {
+          "count": 18,
+          "wins": 4,
+          "losses": 14,
+          "winRate": 0.2222222222222222,
+          "gross": -1890,
+          "fees": 0,
+          "slippage": 0,
+          "net": -1890,
+          "meanR": -0.4312841789899632,
+          "profitFactor": 0.4307228915662651,
+          "largestWin": 980,
+          "largestLoss": -590
+        },
+        "firstHalf": {
+          "count": 22,
+          "wins": 11,
+          "losses": 10,
+          "winRate": 0.5,
+          "gross": -730,
+          "fees": 0,
+          "slippage": 0,
+          "net": -730,
+          "meanR": 0.12686939567438102,
+          "profitFactor": 0.7914285714285715,
+          "largestWin": 980,
+          "largestLoss": -1170
+        },
+        "secondHalf": {
+          "count": 23,
+          "wins": 5,
+          "losses": 18,
+          "winRate": 0.21739130434782608,
+          "gross": -3250,
+          "fees": 0,
+          "slippage": 0,
+          "net": -3250,
+          "meanR": -0.5537281371944419,
+          "profitFactor": 0.2562929061784897,
+          "largestWin": 640,
+          "largestLoss": -1020
+        },
+        "exits": {
+          "stop": 22,
+          "day_end": 17,
+          "target": 6
+        }
+      },
+      "base": {
+        "signalCount": 83,
+        "orders": 78,
+        "maxDrawdown": 5586.066000000001,
+        "equity": -4618.4580000000005,
+        "openPosition": false,
+        "count": 45,
+        "wins": 16,
+        "losses": 29,
+        "winRate": 0.35555555555555557,
+        "gross": -3980,
+        "fees": 248.45800000000006,
+        "slippage": 390,
+        "net": -4618.4580000000005,
+        "meanR": -0.2942482010609567,
+        "profitFactor": 0.4449815286586697,
+        "largestWin": 973.71,
+        "largestLoss": -1186.345,
+        "long": {
+          "count": 27,
+          "wins": 12,
+          "losses": 15,
+          "winRate": 0.4444444444444444,
+          "gross": -2090,
+          "fees": 152.313,
+          "slippage": 220,
+          "net": -2462.313000000001,
+          "meanR": -0.15171182434960373,
+          "profitFactor": 0.4853899201494394,
+          "largestWin": 633.334,
+          "largestLoss": -1186.345
+        },
+        "short": {
+          "count": 18,
+          "wins": 4,
+          "losses": 14,
+          "winRate": 0.2222222222222222,
+          "gross": -1890,
+          "fees": 96.14500000000001,
+          "slippage": 170,
+          "net": -2156.1450000000004,
+          "meanR": -0.5080527661279861,
+          "profitFactor": 0.3903091117208867,
+          "largestWin": 973.71,
+          "largestLoss": -605.139
+        },
+        "firstHalf": {
+          "count": 22,
+          "wins": 11,
+          "losses": 11,
+          "winRate": 0.5,
+          "gross": -730,
+          "fees": 112.77900000000001,
+          "slippage": 180,
+          "net": -1022.7790000000002,
+          "meanR": 0.04520373261178539,
+          "profitFactor": 0.7210244624128115,
+          "largestWin": 973.71,
+          "largestLoss": -1186.345
+        },
+        "secondHalf": {
+          "count": 23,
+          "wins": 5,
+          "losses": 18,
+          "winRate": 0.21739130434782608,
+          "gross": -3250,
+          "fees": 135.679,
+          "slippage": 210,
+          "net": -3595.6790000000015,
+          "meanR": -0.6189413550087969,
+          "profitFactor": 0.22757838598879115,
+          "largestWin": 633.334,
+          "largestLoss": -1035.412
+        },
+        "exits": {
+          "stop": 22,
+          "day_end": 17,
+          "target": 6
+        }
+      },
+      "higherCosts": {
+        "signalCount": 83,
+        "orders": 78,
+        "maxDrawdown": 6524.264000000001,
+        "equity": -5753.832,
+        "openPosition": false,
+        "count": 45,
+        "wins": 12,
+        "losses": 33,
+        "winRate": 0.26666666666666666,
+        "gross": -3980,
+        "fees": 993.8320000000002,
+        "slippage": 780,
+        "net": -5753.832,
+        "meanR": -0.42237271972396084,
+        "profitFactor": 0.37304553169121824,
+        "largestWin": 954.84,
+        "largestLoss": -1215.38,
+        "long": {
+          "count": 27,
+          "wins": 8,
+          "losses": 19,
+          "winRate": 0.2962962962962963,
+          "gross": -2090,
+          "fees": 609.252,
+          "slippage": 440,
+          "net": -3139.2520000000004,
+          "meanR": -0.2799955875327872,
+          "profitFactor": 0.4044982100338264,
+          "largestWin": 613.336,
+          "largestLoss": -1215.38
+        },
+        "short": {
+          "count": 18,
+          "wins": 4,
+          "losses": 14,
+          "winRate": 0.2222222222222222,
+          "gross": -1890,
+          "fees": 384.58000000000004,
+          "slippage": 340,
+          "net": -2614.5799999999995,
+          "meanR": -0.635938418010721,
+          "profitFactor": 0.33059451731568046,
+          "largestWin": 954.84,
+          "largestLoss": -630.556
+        },
+        "firstHalf": {
+          "count": 22,
+          "wins": 9,
+          "losses": 13,
+          "winRate": 0.4090909090909091,
+          "gross": -730,
+          "fees": 451.11600000000004,
+          "slippage": 360,
+          "net": -1541.116,
+          "meanR": -0.09628574891410023,
+          "profitFactor": 0.6133002651742503,
+          "largestWin": 954.84,
+          "largestLoss": -1215.38
+        },
+        "secondHalf": {
+          "count": 23,
+          "wins": 3,
+          "losses": 20,
+          "winRate": 0.13043478260869565,
+          "gross": -3250,
+          "fees": 542.716,
+          "slippage": 420,
+          "net": -4212.715999999999,
+          "meanR": -0.7342819961507839,
+          "profitFactor": 0.1886340244308307,
+          "largestWin": 613.336,
+          "largestLoss": -1061.648
+        },
+        "exits": {
+          "stop": 22,
+          "day_end": 17,
+          "target": 6
+        }
+      }
+    },
+    "1d": {
+      "noCosts": {
+        "signalCount": 4,
+        "orders": 4,
+        "maxDrawdown": 1270,
+        "equity": 6810,
+        "openPosition": false,
+        "count": 3,
+        "wins": 2,
+        "losses": 1,
+        "winRate": 0.6666666666666666,
+        "gross": 6810,
+        "fees": 0,
+        "slippage": 0,
+        "net": 6810,
+        "meanR": 1.1384180790960452,
+        "profitFactor": 10.869565217391305,
+        "largestWin": 4360,
+        "largestLoss": -690,
+        "long": {
+          "count": 3,
+          "wins": 2,
+          "losses": 1,
+          "winRate": 0.6666666666666666,
+          "gross": 6810,
+          "fees": 0,
+          "slippage": 0,
+          "net": 6810,
+          "meanR": 1.1384180790960452,
+          "profitFactor": 10.869565217391305,
+          "largestWin": 4360,
+          "largestLoss": -690
+        },
+        "short": {
+          "count": 0,
+          "wins": 0,
+          "losses": 0,
+          "winRate": null,
+          "gross": 0,
+          "fees": 0,
+          "slippage": 0,
+          "net": 0,
+          "meanR": null,
+          "profitFactor": null,
+          "largestWin": null,
+          "largestLoss": null
+        },
+        "firstHalf": {
+          "count": 2,
+          "wins": 1,
+          "losses": 1,
+          "winRate": 0.5,
+          "gross": 3670,
+          "fees": 0,
+          "slippage": 0,
+          "net": 3670,
+          "meanR": 0.7076271186440678,
+          "profitFactor": 6.318840579710145,
+          "largestWin": 4360,
+          "largestLoss": -690
+        },
+        "secondHalf": {
+          "count": 1,
+          "wins": 1,
+          "losses": 0,
+          "winRate": 1,
+          "gross": 3140,
+          "fees": 0,
+          "slippage": 0,
+          "net": 3140,
+          "meanR": 2,
+          "profitFactor": null,
+          "largestWin": 3140,
+          "largestLoss": null
+        },
+        "exits": {
+          "time": 1,
+          "target": 2
+        }
+      },
+      "base": {
+        "signalCount": 4,
+        "orders": 4,
+        "maxDrawdown": 1270,
+        "equity": 6785.007,
+        "openPosition": false,
+        "count": 3,
+        "wins": 2,
+        "losses": 1,
+        "winRate": 0.6666666666666666,
+        "gross": 6810,
+        "fees": 14.993000000000002,
+        "slippage": 10,
+        "net": 6785.007,
+        "meanR": 1.1324023981669205,
+        "profitFactor": 10.63053009732716,
+        "largestWin": 4354.776,
+        "largestLoss": -704.531,
+        "long": {
+          "count": 3,
+          "wins": 2,
+          "losses": 1,
+          "winRate": 0.6666666666666666,
+          "gross": 6810,
+          "fees": 14.993000000000002,
+          "slippage": 10,
+          "net": 6785.007,
+          "meanR": 1.1324023981669205,
+          "profitFactor": 10.63053009732716,
+          "largestWin": 4354.776,
+          "largestLoss": -704.531
+        },
+        "short": {
+          "count": 0,
+          "wins": 0,
+          "losses": 0,
+          "winRate": null,
+          "gross": 0,
+          "fees": 0,
+          "slippage": 0,
+          "net": 0,
+          "meanR": null,
+          "profitFactor": null,
+          "largestWin": null,
+          "largestLoss": null
+        },
+        "firstHalf": {
+          "count": 2,
+          "wins": 1,
+          "losses": 1,
+          "winRate": 0.5,
+          "gross": 3670,
+          "fees": 9.755,
+          "slippage": 10,
+          "net": 3650.245,
+          "meanR": 0.7002717501166226,
+          "profitFactor": 6.181099199325509,
+          "largestWin": 4354.776,
+          "largestLoss": -704.531
+        },
+        "secondHalf": {
+          "count": 1,
+          "wins": 1,
+          "losses": 0,
+          "winRate": 1,
+          "gross": 3140,
+          "fees": 5.238,
+          "slippage": 0,
+          "net": 3134.762,
+          "meanR": 1.996663694267516,
+          "profitFactor": null,
+          "largestWin": 3134.762,
+          "largestLoss": null
+        },
+        "exits": {
+          "time": 1,
+          "target": 2
+        }
+      },
+      "higherCosts": {
+        "signalCount": 4,
+        "orders": 4,
+        "maxDrawdown": 1270,
+        "equity": 6730.028,
+        "openPosition": false,
+        "count": 3,
+        "wins": 2,
+        "losses": 1,
+        "winRate": 0.6666666666666666,
+        "gross": 6810,
+        "fees": 59.97200000000001,
+        "slippage": 20,
+        "net": 6730.028,
+        "meanR": 1.1200050728936704,
+        "profitFactor": 10.242969604078425,
+        "largestWin": 4339.104,
+        "largestLoss": -728.124,
+        "long": {
+          "count": 3,
+          "wins": 2,
+          "losses": 1,
+          "winRate": 0.6666666666666666,
+          "gross": 6810,
+          "fees": 59.97200000000001,
+          "slippage": 20,
+          "net": 6730.028,
+          "meanR": 1.1200050728936704,
+          "profitFactor": 10.242969604078425,
+          "largestWin": 4339.104,
+          "largestLoss": -728.124
+        },
+        "short": {
+          "count": 0,
+          "wins": 0,
+          "losses": 0,
+          "winRate": null,
+          "gross": 0,
+          "fees": 0,
+          "slippage": 0,
+          "net": 0,
+          "meanR": null,
+          "profitFactor": null,
+          "largestWin": null,
+          "largestLoss": null
+        },
+        "firstHalf": {
+          "count": 2,
+          "wins": 1,
+          "losses": 1,
+          "winRate": 0.5,
+          "gross": 3670,
+          "fees": 39.02,
+          "slippage": 20,
+          "net": 3610.9800000000005,
+          "meanR": 0.6866802208054735,
+          "profitFactor": 5.959292647955568,
+          "largestWin": 4339.104,
+          "largestLoss": -728.124
+        },
+        "secondHalf": {
+          "count": 1,
+          "wins": 1,
+          "losses": 0,
+          "winRate": 1,
+          "gross": 3140,
+          "fees": 20.952,
+          "slippage": 0,
+          "net": 3119.048,
+          "meanR": 1.9866547770700635,
+          "profitFactor": null,
+          "largestWin": 3119.048,
+          "largestLoss": null
+        },
+        "exits": {
+          "time": 1,
+          "target": 2
+        }
+      }
+    }
+  },
+  "minuteTradesOnFlaggedDates": {
+    "count": 7,
+    "wins": 4,
+    "losses": 3,
+    "winRate": 0.5714285714285714,
+    "gross": -70,
+    "fees": 41.736999999999995,
+    "slippage": 40,
+    "net": -151.737,
+    "meanR": 0.5100454488690132,
+    "profitFactor": 0.9096097128291338,
+    "largestWin": 973.71,
+    "largestLoss": -1186.345
+  },
+  "inputs": [
+    {
+      "name": "market-1d.csv",
+      "count": 268,
+      "sha256": "665de7637967e77360acf1edb2cb15918f21ff44b041f34e762eb7b7247b6f05"
+    },
+    {
+      "name": "market-5m.csv",
+      "count": 18324,
+      "sha256": "e12ec6c235689d72935958023dbd983455e93b5d1b76f28f911bf5d074a7f96f"
+    }
+  ]
+}
