@@ -13,6 +13,10 @@
 ![Lightweight Charts](https://img.shields.io/badge/Lightweight%20Charts-5-131722?logo=tradingview&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
+<p>
+  <img src="assets/pomeranian-trader.png" alt="戴着眼镜对着 K 线图疯狂思考的白色小博美" width="760" />
+</p>
+
 </div>
 
 ---
