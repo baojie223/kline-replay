@@ -1,8 +1,14 @@
 {
-  "name": "etf-replay",
+  "name": "kline-replay",
   "version": "0.1.0",
+  "description": "本地 K 线回放与手动/策略回测工作台（ETF 日线 & 期货多周期）",
+  "license": "MIT",
   "private": true,
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/baojie223/kline-replay.git"
+  },
   "scripts": {
     "dev": "vite --host 127.0.0.1",
     "build": "tsc --noEmit && vite build",
